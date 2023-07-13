@@ -65,3 +65,15 @@ img {
     border-radius: 50%;
     z-index: 2;
 }
+.welcome-message {
+    display: none;
+
+}
+
+h1 {
+    font-size: 17px;
+    color: #00aaff;
+}
+.splash-screen{
+    text-align: center;
+}
